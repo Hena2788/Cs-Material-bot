@@ -26,3 +26,12 @@ CS Material Bot is a Telegram bot designed to provide computer science course ma
    git clone h https://github.com/Hena2788/St-mary-university-telegram-bot.git
    cd cs-material-bot
 
+ ### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+###  Acknowledgements
+
+    python-telegram-bot
+    dotenv
+
